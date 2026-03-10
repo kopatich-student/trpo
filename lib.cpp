@@ -5,5 +5,5 @@ void branch2(){
 }
 
 void branch(){
-    std::cout << "branch 1 " << std::endl;
+    std::cout << "branch 3 " << std::endl;
 }
